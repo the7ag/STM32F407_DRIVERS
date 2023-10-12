@@ -1,0 +1,8 @@
+RCC_program.c:42:6:MRCC_voidEnableClock	5
+RCC_program.c:63:6:MRCC_voidDisableClock	5
+RCC_program.c:81:6:MRCC_voidEnableClockSecuritySystem	1
+RCC_program.c:90:6:MRCC_voidDisableClockSecuritySystem	1
+RCC_program.c:104:7:MRCC_voidInitSystemClock	1
+RCC_program.c:183:6:MRCC_vOutMCO_1	5
+RCC_program.c:220:6:MRCC_vOutMCO_1Pre	6
+RCC_program.c:255:6:MRCC_vInitSystemCLK_Systick	2

@@ -1,0 +1,2 @@
+../Src/DELAY_program.c:35:13:Delay_voidMsIn16MHz	24	static
+../Src/DELAY_program.c:55:13:Delay_voidUsIn16MHzint	24	static

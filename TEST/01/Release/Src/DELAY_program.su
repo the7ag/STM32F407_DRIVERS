@@ -1,0 +1,2 @@
+../Src/DELAY_program.c:35:13:Delay_voidMsIn16MHz	8	static
+../Src/DELAY_program.c:55:13:Delay_voidUsIn16MHzint	8	static

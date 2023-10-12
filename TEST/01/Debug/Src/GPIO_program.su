@@ -1,0 +1,9 @@
+../Src/GPIO_program.c:37:6:MGPIO_voidSetPinMode	16	static
+../Src/GPIO_program.c:56:6:MGPIO_voidSetPinOutPutType	16	static
+../Src/GPIO_program.c:77:6:MGPIO_voidSetPinOutSpeed	16	static
+../Src/GPIO_program.c:97:6:MGPIO_voidSetPullType	16	static
+../Src/GPIO_program.c:118:4:MGPIO_u8ReadData	24	static
+../Src/GPIO_program.c:141:6:MGPIO_voidWriteData	16	static
+../Src/GPIO_program.c:178:6:MGPIO_vPinLock	16	static
+../Src/GPIO_program.c:225:6:MGPIO_voidSetPinAltFn	16	static
+../Src/GPIO_program.c:258:6:MGPIO_voidPortOutputOneByte	16	static
